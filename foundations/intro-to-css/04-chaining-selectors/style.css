@@ -1,1 +1,8 @@
 /* Add CSS Styling */
+.img.woman{
+    width: 300px;
+}
+.img.man{
+    width: 200px;
+    height: 400px;
+}
