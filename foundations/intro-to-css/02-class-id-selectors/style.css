@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+.red-bg{
+    background-color: rgba(235, 117, 117, 0.733);
+    font-weight: 525;
+}
+#blue-txt-div{
+    color: hsl(229, 100%, 48%);
+    font-weight: 500;
+    font-size:50px;
+}
+#green-bg-div{
+    background-color:rgb(103, 240, 103);
+    font-weight: bold;
+    font-size:25px ;
+}
+.red-bg.bigger{
+    font-size: 30px;
+    
+}
