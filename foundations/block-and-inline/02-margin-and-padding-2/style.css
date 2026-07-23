@@ -7,6 +7,7 @@ body {
   width: 400px;
   background: white;
   margin: 16px auto;
+   padding:2px; /* mistake forgot to put padding here */
 }
 
 .title,
@@ -17,4 +18,22 @@ body {
 
 button {
   background: white;
+  display: block;
+  margin:0 auto; 
+  padding:8px 24px ;
+  /* didn't add last two lines */
 }
+.title,
+.content{padding: 15px;
+  margin: 10px;}
+
+.title{font-size: 15px;
+}
+
+.button-container{  padding: 8px; /*did too much padding here*/
+  margin: 10px;
+  text-align: center; /*didn't do text align center thought something else might come in play*/
+
+}
+
+
